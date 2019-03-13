@@ -23,7 +23,7 @@
   <modules>
     <module>discovery</module>
     <module>examination</module>
-    <module>examination1</module>
+    <module>feign</module>
     <module>ribbon</module>
   </modules>
 
